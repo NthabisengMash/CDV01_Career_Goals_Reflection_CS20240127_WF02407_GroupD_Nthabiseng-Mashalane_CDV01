@@ -89,11 +89,11 @@ By completing this reflection, you will gain a clearer understanding of your car
         
         Measurable: Complete the course modules and deploy a functioning project on GitHub.
         
-        Achievable: Allocate 10 hours per week for learning and project development.
+        Achievable: Allocate 8 hours per week for learning and project development.
         
         Relevant: Enhance front-end development skills and stay competitive in the industry.
         
-        Time-bound: Complete the course and project within 4 months.
+        Time-bound: Get a job within ashort period of time
 
         Goal 2: 
 
@@ -111,7 +111,7 @@ By completing this reflection, you will gain a clearer understanding of your car
 
     - Explain the rationale behind each goal.
 
-        Learning JavaScript frameworks like React.js is crucial for modern web development, as they enable building interactive and responsive user interfaces efficiently. By completing a course and building a project, I aim to deepen my understanding and practical application of these frameworks. This goal is essential to stay competitive in the evolving tech industry and measurable through the completion of course modules and project deployment within a defined timeframe.
+        Learning JavaScript frameworks like React.js is essential for modern web development, as they enable building interactive and responsive user interfaces efficiently. By completing  building a projects, I aim to deepen my understanding and practical application of these frameworks. The to stay competitive in the evolving tech industry and measurable through the completion of course modules and project deployment within a defined timeframe.
 
 2. **Long-term Goals** (3-5 years and beyond):
     
