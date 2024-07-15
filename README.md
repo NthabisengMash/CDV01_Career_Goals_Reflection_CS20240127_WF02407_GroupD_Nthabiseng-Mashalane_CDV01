@@ -71,8 +71,10 @@ By completing this reflection, you will gain a clearer understanding of your car
 
     - Identify any gaps or areas for further exploration.
 
-        Skills: I possess strong proficiency in HTML, CSS, and I'm expanding into JavaScript frameworks like React.js, which are highly relevant in modern web development. 
+        Skills: I possess strong proficiency in HTML, CSS, and I'm expanding into JavaScript frameworks like React.js, which are highly relevant in modern web development.
+
         Interests: I am passionate about creating user-friendly and aesthetically pleasing digital experiences.
+       
         Values: In a work environment, I value creativity, collaboration, and the opportunity to contribute to meaningful projects. Industries like digital marketing and e-commerce emphasize innovation, responsiveness to market trends, and delivering value to customers through effective digital platforms. These values resonate with my desire to contribute to impactful projects and collaborate with diverse teams to achieve common goals.
 
 ### Part 3: SMART Career Goals
