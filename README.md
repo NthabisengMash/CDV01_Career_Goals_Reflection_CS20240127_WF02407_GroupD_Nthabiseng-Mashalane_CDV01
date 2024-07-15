@@ -26,32 +26,37 @@ By completing this reflection, you will gain a clearer understanding of your car
 1. **Skills Analysis**:
     
     - List your current skills and areas of expertise.
+
     - In the software field:
+
          Proficient in HTML and CSS for building websites.
          Experience in coding and structuring web pages
 
     - Identify skills you need to develop or improve.
+
          JavaScript for adding interactivity to websites and other techniques used with JavaScript language.
 
 2. **Interests and Values**:
     
     - Describe your key interests related to your career.
+
          Creating visually appealing and functional websites.
          Solving design and user experience challenges.
 
     - What values are important to you in a work environment?
-         Integrity
-         Respect
-         Good Communication
+         Integrity,
+         Respect,
+         Good Communication.
 
 ### Part 2: Career Exploration Insights
 
 1. **Industries and Roles Explored**:
     
     - List the industries or roles you have researched.
-         Web development agencies
-         Junior Frontend Developer
-         Digital marketing firms
+
+         Web development agencies,
+         Junior Frontend Developer,
+         Digital marketing firms.
 
     - Note any particular areas that piqued your interest.
 
