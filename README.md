@@ -28,7 +28,6 @@ By completing this reflection, you will gain a clearer understanding of your car
     - List your current skills and areas of expertise.
 
     - In the software field:
-
          Proficient in HTML and CSS for building websites.
          Experience in coding and structuring web pages
 
