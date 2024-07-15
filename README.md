@@ -43,9 +43,9 @@ By completing this reflection, you will gain a clearer understanding of your car
          Solving design and user experience challenges.
 
     - What values are important to you in a work environment?
-         Integrity,
-         Respect,
-         Good Communication.
+         1. Integrity,
+         2. Respect,
+         3. Good Communication.
 
 ### Part 2: Career Exploration Insights
 
