@@ -85,19 +85,29 @@ By completing this reflection, you will gain a clearer understanding of your car
         Goal 1: 
 
         Complete a JavaScript framework course (e.g., React.js or Vue.js) and build a small project using the framework.
+        
         Specific: Learn React.js fundamentals and apply them to develop a responsive web application.
+        
         Measurable: Complete the course modules and deploy a functioning project on GitHub.
+        
         Achievable: Allocate 10 hours per week for learning and project development.
+        
         Relevant: Enhance front-end development skills and stay competitive in the industry.
+        
         Time-bound: Complete the course and project within 4 months.
 
         Goal 2: 
 
         Develop proficiency in responsive design techniques by redesigning an existing website to be mobile-friendly.
+        
         Specific: Implement CSS media queries and flexible layouts to ensure compatibility across devices.
+        
         Measurable: Test the redesigned website on various devices and browsers for responsiveness.
+        
         Achievable: Allocate 5 hours per week for learning and implementation.
+       
         Relevant: Improve user experience and adapt to the increasing use of mobile devices.
+        
         Time-bound: Complete the redesign project within 3 months.
 
     - Explain the rationale behind each goal.
