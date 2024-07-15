@@ -130,15 +130,15 @@ By completing this reflection, you will gain a clearer understanding of your car
     
     - Detail specific actions or steps needed to achieve each short-term goal.
 
-        1.Spend more time on JavaScript courses, buiding javascript projects to gaining more knowedge.
-        2.Collaborate on projects or freelance opportunities that require these skills.
-        3.Gain experience in managing small-scale projects to build capabilities.
+        1. Spend more time on JavaScript courses, buiding javascript projects to gaining more knowedge.
+        2. Collaborate on projects or freelance opportunities that require these skills.
+        3. Gain experience in managing small-scale projects to build capabilities.
 
     - Include any resources or support required.
 
-        1.Seek mentorship from senior developers or my coach
-        2.Get involved in groups with people who has similar learning interests like mine for motivational support.
-        3.Get involved in Hackerthon challenges online.
+        1. Seek mentorship from senior developers or my coach
+        2. Get involved in groups with people who has similar learning interests like mine for motivational support.
+        3. Get involved in Hackerthon challenges online.
     
 
 2. **Preparation for Long-term Goals**:
